@@ -1,0 +1,10 @@
+@media(prefers-color-chemae: dark) {
+    :root {
+        --logo-color: #fff;
+        --text-color: #fff;
+        --seach-text: #fff;
+        --nav-bg: #2B3844;
+        --main-color: #202C36;
+        --search-bg: #2B3844;
+    }
+}
